@@ -3,9 +3,9 @@
 
 🧑🏻‍💻 Proficient in **SQL** and core subjects such as Strength of Materials, Heat Transfer, Thermodynamics, and Applied Thermodynamics.
 
-📄 [Resume]()   
-
 🗨️ Get in touch: [gm626567@gmail.com](mailto:gm626567@gmail.com)
+
+📄 [Resume]()   
 
  
 ## 🌐 Socials
